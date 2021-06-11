@@ -2,6 +2,7 @@
   Catálogo digital Marvel
     <br>
 </h1>
+<img src="./screenshot.png" alt="My cool screenshot"/>
 
 <h4 align="center">
  O app connsiste numa pagina web básica consumindo  a API da Marvel trazendo a tela de quadrinhos e o título!
