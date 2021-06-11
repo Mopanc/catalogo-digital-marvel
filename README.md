@@ -9,8 +9,8 @@
 <br>
 
 <p align="center">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/mopanc/ws?color=FF5E84">
-<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Mopanc/ws?color=FF5E84">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/mopanc/catalogo-digital-marvel?color=2E8BC0">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Mopanc/catalogo-digital-marvel?color=2E8BC0">
 </p> 
 
 <p align="center">
