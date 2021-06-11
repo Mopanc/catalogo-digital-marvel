@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  bottom: 0;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #252533;
+  font-family: 'Roboto', sans-serif;
+}
+
+hr.login {
+  border-top: 1px solid rgba(255,255,255,0.5);
+}
+
+span {
+  cursor: default;
+}
+
+header .container {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  background-color: #000000;
+}
+
+
+header nav a {
+  text-decoration: none;
+  color: #AAA;
+  margin-right: 10px;
+
+}
+
+header nav a:hover {
+  color: #FFF;
+}
+
+.paginacao {
+  margin-right: 50px;
+}
+
+#herois {
+  width: 100%;
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  color:#ffffff;
+
+}
+
+img {
+  width: 250px;
+  border-bottom-style: solid;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+img.card-image {
+  width: 250px;
+  min-height: 300px;
+  max-height: 300px;
+  border-bottom-style: solid;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+}
+
+.personagem {
+  position: relative;
+  width: 250px;
+  margin: 10px;
+  border-style: solid;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid #000000;
+  box-shadow: 5px 5px 8px 5px rgba(225, 8, 8, 0.1);
+}
+
+.button-buy {
+  position: relative;
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #b51d1d;
+  color: aliceblue;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 4px 4px;
+  
+}
+
+.button-buy:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.descriptionCard {
+  display: flex;
+  position: block;
+  height: 51px;
+  width: 288px;
+}
+
+.footerText {
+  height: 50px;
+  padding: 12px;
+  margin-top: 30px;
+  background-color: #394449;
+  color:#FFF;
+  text-align: center;
+}
+
+.navbar-brand {
+  font-size: 32px;
+}
+
+.tituloOferta {
+  color: #ffffff;
+}
+
+
+
+
+
+
+
