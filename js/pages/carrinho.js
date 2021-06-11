@@ -1,0 +1,6 @@
+function carrinho() {
+    return `
+    ${navbar()}
+
+`
+}
