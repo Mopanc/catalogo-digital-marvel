@@ -2,7 +2,7 @@ let routes = {
   'dashboard': dashboard,
   'personagens': personagens,
   'carrinho': carrinho,
-  'ofertas': ofertas
+  'ofertas': ofertas,
 }
 
 function updateContentPage(pageName) {
@@ -20,6 +20,6 @@ let route = url.searchParams.get('p');
 if (route) {
   content = route;
 }
-
+location.replace("file:///Users/jorgemorais/Desktop/catalogo-digital/index.html?p=dashboard");
 updateContentPage(content);
 
