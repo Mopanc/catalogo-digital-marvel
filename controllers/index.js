@@ -1,6 +1,6 @@
     const timeStamp = '1623272205';
-    const apiKey = '823905701adbde9cdc0c1a3225c01cbf';
-    const md5 = '4263fcd0120201bbdbad5136270cdd75';
+    const apiKey = '';
+    const md5 = '';
 
     //default not avail image
     var IMAGE_NOT_AVAIL = "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available";
@@ -58,3 +58,6 @@
 
         return new_results
     }
+
+//823905701adbde9cdc0c1a3225c01cbf
+//4263fcd0120201bbdbad5136270cdd75
