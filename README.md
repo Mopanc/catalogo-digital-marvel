@@ -61,8 +61,8 @@ You have to go into the  [Marvel](https://developer.marvel.com) website and crea
 Go to the index.js inside of project and paste your keys:
 ```bash
     const timeStamp = '1623272205';
-    const apiKey = '823905701adbde9cdc0c1a3225c01cbf';
-    const md5 = '4263fcd0120201bbdbad5136270cdd75';
+    const apiKey = 'yourkey';
+    const md5 = 'yourmd5';
 ```
 
 
